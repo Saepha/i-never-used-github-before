@@ -7,8 +7,3 @@ A:
         Send {Click} 
 }
 }
-
-
-
-
-
